@@ -1,24 +1,24 @@
 # Article Feedback - Functions in JavaScript
 
-## a. Challenges you encountered while writing the article
+## A. Challenges you encountered while writing the article
 
 While writing the article on JavaScript functions, one of the main challenges I faced was ensuring that the examples were unique and not similar to commonly found code snippets online. It required a creative approach to write meaningful and realistic examples that demonstrate different concepts without repeating standard textbook cases. Additionally, I had to ensure that the content was organized logically, making it comprehensive for readers with varying levels of JavaScript experience.
 
-## b. The decisions that you made about what to include or exclude from your article
+## B. The decisions that you made about what to include or exclude from your article
 
 When deciding what to include, I focused on covering the essential aspects of JavaScript functions, such as function declarations, expressions, arrow functions, and common features like default parameters and rest parameters. I also included a section on higher-order functions to provide a deeper understanding for readers interested in advanced topics.
 
 I chose to exclude more complex topics such as asynchronous functions, closures, and recursion, as these could significantly extend the scope of the article. My aim was to maintain a balance between providing enough detail for beginners and not overwhelming them with too many advanced concepts at once.
 
-## c. Where you would want feedback on your article
+## C. Where you would want feedback on your article
 
 I would appreciate feedback on the overall flow of the article, particularly on how the concepts are introduced and explained. I'm also interested in knowing if the code examples are clear and effective in demonstrating the intended topics. Additionally, any suggestions on improving the readability and structure of the explanations would be helpful.
 
-## d. Additional improvements you would have made if you had more time
+## D. Additional improvements you would have made if you had more time
 
 If I had more time, I would have incorporated visual diagrams to illustrate the flow of function calls, the difference between hoisting in function declarations vs. function expressions, and the behavior of `this` in arrow functions. Using a tool like Excalidraw, I could have created custom diagrams to visually represent these concepts, making the explanations easier to understand and more engaging for readers.
 
-## e. Use of Generative AI Tools for the Assignment
+## E. Use of Generative AI Tools for the Assignment
 
 ### i. The prompt(s) you provided the tool
 
@@ -60,7 +60,3 @@ While the AI-generated response provided a good starting point, I made several a
 I chose to use these AI tools as a source of inspiration and to help streamline the initial drafting process. Given the wide scope of topics covered in JavaScript functions, leveraging generative AI allowed me to quickly gather ideas and structure the article effectively. However, I made sure to thoroughly revise and refine the content, ensuring that it was tailored to my specific needs and avoided direct plagiarism. This approach helped me focus more on the quality and depth of the content rather than spending excessive time on basic structuring.
 
 Overall, using generative AI tools allowed me to produce a well-rounded and informative article, but I took care to apply my own understanding, unique examples, and enhancements, resulting in a final product that is both original and comprehensive.
-
-```
-
-```
