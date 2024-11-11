@@ -36,7 +36,7 @@ The tool provided a structured article with various sections explaining JavaScri
 
 "JavaScript supports higher-order functions, which can accept other functions as arguments or return them. For example:
 
-````javascript
+```javascript
 function applyDiscount(price, discountFunction) {
   return discountFunction(price);
 }
@@ -44,7 +44,7 @@ function applyDiscount(price, discountFunction) {
 const halfOff = (price) => price * 0.5;
 
 console.log(applyDiscount(200, halfOff)); // Output: 100
-```"
+```
 
 ### iii. What you distinctly changed about the response
 
@@ -60,4 +60,7 @@ While the AI-generated response provided a good starting point, I made several a
 I chose to use these AI tools as a source of inspiration and to help streamline the initial drafting process. Given the wide scope of topics covered in JavaScript functions, leveraging generative AI allowed me to quickly gather ideas and structure the article effectively. However, I made sure to thoroughly revise and refine the content, ensuring that it was tailored to my specific needs and avoided direct plagiarism. This approach helped me focus more on the quality and depth of the content rather than spending excessive time on basic structuring.
 
 Overall, using generative AI tools allowed me to produce a well-rounded and informative article, but I took care to apply my own understanding, unique examples, and enhancements, resulting in a final product that is both original and comprehensive.
-````
+
+```
+
+```
